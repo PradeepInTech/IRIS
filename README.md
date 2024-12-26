@@ -23,7 +23,7 @@ IRIS is an intelligent voice assistant project developed in Python. It leverages
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/PradeepInTech/Iris.git
-   cd IRIS
+   cd Iris
    ```
 2. **Create a virtual environment:**
    ```bash
