@@ -1,0 +1,6 @@
+SpeechRecognition
+sounddevice
+pyttsx3
+gtts
+playsound
+socket
