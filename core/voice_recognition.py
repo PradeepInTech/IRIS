@@ -1,5 +1,5 @@
 import speech_recognition as sr
-import sounddevice
+import sounddevice #Only for Linux users to fix Alsa warring
 
 def listen():
     r = sr.Recognizer()

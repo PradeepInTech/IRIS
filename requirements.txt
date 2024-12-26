@@ -3,4 +3,5 @@ sounddevice
 pyttsx3
 gtts
 playsound
-socket
+bs4
+requests
